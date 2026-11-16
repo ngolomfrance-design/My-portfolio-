@@ -1,0 +1,403 @@
+{
+  "config": {
+    "linkedinUrl": "",
+    "githubUrl": "",
+    "agencyWebsiteUrl": "",
+    "hackathonName": "",
+    "hackathonProblem": "",
+    "hackathonTech": "",
+    "hackathonOutcome": "",
+    "hackathonLink": ""
+  },
+  "experiences": [
+    {
+      "id": "exp-01",
+      "index": "01",
+      "order": 1,
+      "organization": {
+        "fr": "Expertise France – Yaoundé",
+        "en": "Expertise France – Yaoundé"
+      },
+      "role": {
+        "fr": "Gestionnaire de projets",
+        "en": "Project Manager"
+      },
+      "period": {
+        "fr": "Septembre 2021 – Septembre 2022",
+        "en": "September 2021 – September 2022"
+      },
+      "summary": {
+        "fr": "Étape fondatrice de mon parcours professionnel dans la gestion de projets, axée sur la planification, l’organisation opérationnelle et le suivi rigoureux des activités.",
+        "en": "A foundational milestone in my professional journey in project management, focused on planning, operational organization, and rigorous activity tracking."
+      }
+    },
+    {
+      "id": "exp-02",
+      "index": "02",
+      "order": 2,
+      "organization": {
+        "fr": "Start-up Informatique",
+        "en": "IT Start-up"
+      },
+      "role": {
+        "fr": "Stagiaire",
+        "en": "Intern"
+      },
+      "period": {
+        "fr": "Juin – Septembre 2023",
+        "en": "June – September 2023"
+      },
+      "summary": {
+        "fr": "Immersion directe dans l’environnement professionnel informatique, découverte des méthodologies de travail en start-up et contribution aux dynamiques techniques.",
+        "en": "Direct immersion in an IT professional environment, learning start-up workflows and contributing to technical team dynamics."
+      }
+    },
+    {
+      "id": "exp-03",
+      "index": "03",
+      "order": 3,
+      "organization": {
+        "fr": "CHRACHERH",
+        "en": "CHRACHERH"
+      },
+      "role": {
+        "fr": "Stagiaire informatique – Salle des serveurs",
+        "en": "IT Intern – Server Room"
+      },
+      "period": {
+        "fr": "Juin – Septembre 2024",
+        "en": "June – September 2024"
+      },
+      "summary": {
+        "fr": "Découverte pratique des environnements informatiques en production, de la salle des serveurs et de l’exploitation des infrastructures techniques.",
+        "en": "Hands-on exposure to live IT environments, server room operations, and technical infrastructure administration."
+      }
+    },
+    {
+      "id": "exp-04",
+      "index": "04",
+      "order": 4,
+      "organization": {
+        "fr": "Participation au Hackathon 2026",
+        "en": "Hackathon 2026 Participation"
+      },
+      "role": {
+        "fr": "Participante",
+        "en": "Participant"
+      },
+      "period": {
+        "fr": "2026",
+        "en": "2026"
+      },
+      "summary": {
+        "fr": "Expérience intensive de collaboration en équipe, d’innovation et de résolution de problèmes concrets par la conception de solutions numériques.",
+        "en": "Intensive experience in team collaboration, innovation, and problem solving through digital solution design."
+      }
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-restaurantos",
+      "index": "01",
+      "category": "software",
+      "name": {
+        "fr": "RestaurantOS",
+        "en": "RestaurantOS"
+      },
+      "shortDescription": {
+        "fr": "Solution numérique de gestion complète destinée aux établissements de restauration.",
+        "en": "Comprehensive digital management solution designed for hospitality and restaurant venues."
+      },
+      "description": {
+        "fr": "RestaurantOS est un projet de plateforme numérique dédiée à l’organisation opérationnelle des restaurants, réunissant la prise de commande, la gestion des tables, les réservations, les stocks et le pilotage analytique dans un environnement unifié.",
+        "en": "RestaurantOS is a digital platform project dedicated to restaurant operational excellence, unifying order taking, table management, reservations, inventory, and analytics in one cohesive system."
+      },
+      "problem": {
+        "fr": "De nombreux restaurants gèrent encore séparément les réservations, la prise de commande en salle, les stocks et la caisse, ce qui engendre des lenteurs de service et un manque de visibilité sur les performances.",
+        "en": "Many restaurants still manage reservations, table orders, inventory, and billing in silos, causing service delays and limited operational visibility."
+      },
+      "solution": {
+        "fr": "Concevoir un écosystème centralisé intégrant des menus accessibles par QR Code, un suivi fluide entre la salle et la caisse, des tableaux de bord décisionnels et une assistance intelligente.",
+        "en": "Design a centralized ecosystem combining QR code menus, seamless floor-to-cashier coordination, decision dashboards, and intelligent assistance."
+      },
+      "technologies": {
+        "fr": "Architecture Web & Mobile, interfaces QR Code, tableau de bord analytique et module d’assistance intelligente (en cours de conception).",
+        "en": "Web & Mobile architecture, QR code interfaces, analytics dashboard, and intelligent assistance module (in design phase)."
+      },
+      "status": {
+        "fr": "En cours de conception",
+        "en": "In Design & Development"
+      },
+      "image": "/src/assets/images/project_restaurantos_1794819705267.jpg",
+      "link": "",
+      "features": {
+        "fr": [
+          "Gestion des commandes",
+          "Gestion des tables",
+          "Gestion des réservations",
+          "Gestion des stocks",
+          "Gestion des menus",
+          "Système de caisse",
+          "Commandes par QR Code",
+          "Tableau de bord",
+          "Statistiques",
+          "Assistance intelligente"
+        ],
+        "en": [
+          "Order management",
+          "Table management",
+          "Reservation management",
+          "Inventory management",
+          "Menu management",
+          "Point-of-sale system",
+          "QR Code ordering",
+          "Operations dashboard",
+          "Performance statistics",
+          "Intelligent assistance"
+        ]
+      }
+    },
+    {
+      "id": "proj-gestion-scolaire",
+      "index": "02",
+      "category": "software",
+      "name": {
+        "fr": "Solutions de Gestion Scolaire",
+        "en": "School Management Solutions"
+      },
+      "shortDescription": {
+        "fr": "Solution numérique conçue pour faciliter la gestion administrative et pédagogique des établissements scolaires.",
+        "en": "Digital solution built to streamline administrative and academic management for educational institutions."
+      },
+      "description": {
+        "fr": "Ce projet vise à doter les établissements scolaires d’un outil structuré pour centraliser les dossiers administratifs, le suivi pédagogique et la coordination entre l’administration, les enseignants et les familles.",
+        "en": "This project equips schools with a structured platform to centralize administrative records, academic tracking, and coordination across staff, teachers, and families."
+      },
+      "problem": {
+        "fr": "La gestion manuelle ou dispersée des inscriptions, des emplois du temps et des dossiers scolaires alourdit le travail administratif et multiplie les risques d’erreurs.",
+        "en": "Manual or fragmented handling of enrollments, schedules, and student records increases administrative burden and introduces errors."
+      },
+      "solution": {
+        "fr": "Développer une application claire, sécurisée et accessible permettant d’unifier les processus administratifs et le suivi pédagogique au sein d’un système d’information cohérent.",
+        "en": "Develop a clear, secure, and accessible application unifying administrative workflows and academic monitoring within a coherent information system."
+      },
+      "technologies": {
+        "fr": "Application Web, modélisation de systèmes d’information et base de données structurée (en cours de développement).",
+        "en": "Web application, information system modeling, and structured database architecture (in development)."
+      },
+      "status": {
+        "fr": "En cours de conception",
+        "en": "In Design & Development"
+      },
+      "image": "/src/assets/images/project_school_management_1794819705659.jpg",
+      "link": "",
+      "features": {
+        "fr": [
+          "Centralisation des dossiers administratifs",
+          "Organisation et suivi pédagogique",
+          "Structuration des emplois du temps",
+          "Tableaux de suivi pour l’administration"
+        ],
+        "en": [
+          "Centralized administrative records",
+          "Academic organization and tracking",
+          "Timetable structuring",
+          "Administrative overview dashboards"
+        ]
+      }
+    },
+    {
+      "id": "proj-data-work-agency",
+      "index": "03",
+      "category": "entrepreneurship",
+      "name": {
+        "fr": "DATA WORK AGENCY",
+        "en": "DATA WORK AGENCY"
+      },
+      "shortDescription": {
+        "fr": "Développement d’une identité entrepreneuriale dans le secteur des technologies et des services numériques.",
+        "en": "Building an entrepreneurial identity in the technology and digital services sector."
+      },
+      "description": {
+        "fr": "Fondée et dirigée par Sophie Francette Ngolom, DATA WORK AGENCY est une agence dédiée à la conception de solutions numériques, au développement informatique, à la communication digitale et à l’accompagnement des entreprises dans leur transformation numérique.",
+        "en": "Founded and led by Sophie Francette Ngolom, DATA WORK AGENCY is dedicated to digital solution design, software development, digital communications, and guiding businesses through digital transformation."
+      },
+      "problem": {
+        "fr": "Les entreprises et organisations ont besoin d’un partenaire polyvalent capable de relier conception technique, image de marque digitale et vision stratégique.",
+        "en": "Businesses and organizations need a versatile partner able to bridge technical engineering, digital brand presence, and strategic execution."
+      },
+      "solution": {
+        "fr": "Structurer une offre intégrée couvrant le développement web et mobile, le design graphique, le marketing digital, l’optimisation sociale et l’intégration de solutions d’intelligence artificielle.",
+        "en": "Structure an integrated service offering spanning web & mobile development, graphic design, digital marketing, social optimization, and AI integration."
+      },
+      "technologies": {
+        "fr": "Développement Web & Mobile, Stratégie digitale, Design graphique et Intégration IA.",
+        "en": "Web & Mobile Development, Digital Strategy, Graphic Design, and AI Integration."
+      },
+      "status": {
+        "fr": "Initiative active · Yaoundé",
+        "en": "Active Venture · Yaoundé"
+      },
+      "image": "/src/assets/images/project_data_work_agency_1794819705984.jpg",
+      "link": "",
+      "features": {
+        "fr": [
+          "Création de sites web et d’applications Web & Mobile",
+          "Community Management et optimisation des réseaux sociaux",
+          "Design graphique et marketing digital",
+          "Intégration d’intelligence artificielle et transformation numérique"
+        ],
+        "en": [
+          "Website and Web & Mobile application development",
+          "Community Management and social media optimization",
+          "Graphic design and digital marketing",
+          "AI integration and digital transformation consulting"
+        ]
+      }
+    },
+    {
+      "id": "proj-hackathon-2026",
+      "index": "04",
+      "category": "hackathon",
+      "isHackathon": true,
+      "year": "2026",
+      "name": {
+        "fr": "Participation au Hackathon 2026",
+        "en": "Hackathon 2026 Participation"
+      },
+      "shortDescription": {
+        "fr": "Expérience collaborative de conception et de résolution de problèmes menée dans le cadre d’un hackathon en 2026.",
+        "en": "Collaborative solution design and problem-solving experience carried out during a 2026 hackathon."
+      },
+      "description": {
+        "fr": "Fiche dédiée à la participation au Hackathon 2026, documentant le contexte d’intervention, la contribution personnelle et les éléments complémentaires configurables au fil de la publication des informations.",
+        "en": "Dedicated project sheet for the 2026 Hackathon participation, documenting participation context, personal contribution, and configurable details."
+      },
+      "context": {
+        "fr": "Participation en contexte collaboratif orienté vers l’analyse rapide d’une problématique concrète, la structuration d’une réponse numérique et le travail en équipe sous contrainte de temps.",
+        "en": "Collaborative sprint focused on rapid problem analysis, structuring a digital response, and cross-functional teamwork under time constraints."
+      },
+      "contribution": {
+        "fr": "Mise en pratique des compétences en conception de solutions informatiques, structuration de projet digital, réflexion stratégique et travail collaboratif.",
+        "en": "Applied skills in software solution design, digital project structuring, strategic thinking, and team collaboration."
+      },
+      "problem": {
+        "fr": "Problématique abordée : à renseigner lorsque les détails publics de l’édition seront ajoutés.",
+        "en": "Problem addressed: to be specified when edition details are published."
+      },
+      "solution": {
+        "fr": "Approche collaborative combinant cadrage fonctionnel, réflexion orientée utilisateur et prototypage de solution numérique.",
+        "en": "Collaborative approach combining functional scoping, user-centered thinking, and digital solution prototyping."
+      },
+      "technologies": {
+        "fr": "À renseigner (configurable depuis l’interface d’administration).",
+        "en": "To be specified (configurable via the admin panel)."
+      },
+      "outcome": {
+        "fr": "Expérience confirmée en 2026 · Détails complémentaires configurables.",
+        "en": "Confirmed 2026 participation · Additional details configurable."
+      },
+      "status": {
+        "fr": "Participation 2026",
+        "en": "2026 Participation"
+      },
+      "image": "/src/assets/images/project_hackathon_2026_1794819706123.jpg",
+      "link": ""
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-hackathon-2026",
+      "slug": "retour-experience-hackathon-2026",
+      "category": {
+        "fr": "Hackathon 2026",
+        "en": "Hackathon 2026"
+      },
+      "date": "2026-10-18",
+      "image": "/src/assets/images/project_hackathon_2026_1794819706123.jpg",
+      "title": {
+        "fr": "Hackathon 2026 : ce que le travail en équipe m’a appris sur la conception de solutions",
+        "en": "Hackathon 2026: Lessons in Team Collaboration and Rapid Solution Design"
+      },
+      "summary": {
+        "fr": "Retour d’expérience sur la dynamique collective, la structuration d’idées sous contrainte de temps et l’importance d’une vision claire face à une problématique réelle.",
+        "en": "Reflections on team dynamics, structuring ideas under time constraints, and keeping user problems at the center of technical execution."
+      },
+      "content": {
+        "fr": "Participer à un hackathon en 2026 a été une étape particulièrement formatrice dans mon parcours. Au-delà de la dimension technique, cet environnement met immédiatement à l’épreuve la capacité d’écoute, la clarté de communication et la rigueur dans la priorisation.\n\nLorsque le temps est limité, la tentation est grande de multiplier les fonctionnalités. L’expérience rappelle au contraire qu’une solution pertinente naît d’abord d’une compréhension précise du problème posé et d’une répartition cohérente des responsabilités au sein de l’équipe.\n\nCette immersion confirme ma conviction : l’innovation numérique prend tout son sens lorsqu’elle relie compétence technique, gestion de projet disciplinée et esprit collaboratif.",
+        "en": "Taking part in a hackathon in 2026 was a deeply formative milestone in my journey. Beyond the technical dimension, such an environment immediately tests active listening, communication clarity, and disciplined prioritization.\n\nUnder tight time constraints, it is tempting to over-engineer features. In practice, a relevant solution starts with an accurate grasp of the problem and well-aligned responsibilities across the team.\n\nThis experience reinforces my conviction that digital innovation reaches its full potential when engineering capability, project governance, and teamwork move together."
+      },
+      "published": true
+    },
+    {
+      "id": "art-data-work-agency",
+      "slug": "entrepreneuriat-numerique-data-work-agency",
+      "category": {
+        "fr": "Entrepreneuriat",
+        "en": "Entrepreneurship"
+      },
+      "date": "2026-09-24",
+      "image": "/src/assets/images/project_data_work_agency_1794819705984.jpg",
+      "title": {
+        "fr": "DATA WORK AGENCY : structurer une approche pragmatique de la transformation numérique",
+        "en": "DATA WORK AGENCY: Building a Pragmatic Approach to Digital Transformation"
+      },
+      "summary": {
+        "fr": "Pourquoi les entreprises locales ont besoin de solutions digitales alignées sur leurs réalités opérationnelles plutôt que d’outils standardisés complexes.",
+        "en": "Why growing organizations need digital tools tailored to their operational realities rather than disconnected software."
+      },
+      "content": {
+        "fr": "En créant DATA WORK AGENCY à Yaoundé, mon ambition était de proposer aux entreprises et organisations un accompagnement qui relie la technique aux usages concrets.\n\nLa transformation numérique ne se résume pas à disposer d’un site web ou d’une présence sur les réseaux sociaux. Elle suppose une cohérence globale entre l’image de marque, les outils de gestion internes, la relation client et l’exploration raisonnée des opportunités offertes par l’intelligence artificielle.\n\nNotre démarche privilégie l’écoute du besoin, la clarté architecturale et l’accompagnement durable pour transformer les idées en résultats tangibles.",
+        "en": "When founding DATA WORK AGENCY in Yaoundé, my ambition was to offer businesses and institutions support that connects engineering directly to everyday operations.\n\nDigital transformation goes far beyond having a website or social accounts. It requires alignment between brand identity, internal management workflows, customer experience, and thoughtful integration of artificial intelligence.\n\nOur approach prioritizes listening, architectural clarity, and long-term partnership to turn ideas into tangible outcomes."
+      },
+      "published": true
+    },
+    {
+      "id": "art-restaurantos-conception",
+      "slug": "concevoir-restaurantos-pour-la-restauration",
+      "category": {
+        "fr": "Technologie",
+        "en": "Technology"
+      },
+      "date": "2026-08-12",
+      "image": "/src/assets/images/project_restaurantos_1794819705267.jpg",
+      "title": {
+        "fr": "RestaurantOS : penser un outil de gestion pensé pour la fluidité en salle et en cuisine",
+        "en": "RestaurantOS: Designing Operations Software for Dining Room and Kitchen Flow"
+      },
+      "summary": {
+        "fr": "Aperçu de la réflexion produit derrière RestaurantOS : de la commande par QR Code à la gestion des stocks et à l’aide à la décision.",
+        "en": "A look at the product architecture behind RestaurantOS, from QR code ordering to stock tracking and decision dashboards."
+      },
+      "content": {
+        "fr": "Dans la conception de RestaurantOS, chaque fonctionnalité est envisagée à partir des contraintes concrètes d’un établissement : fluidifier les commandes, éviter les ruptures de stock imprévues, simplifier la gestion des réservations et offrir une lecture claire de l’activité.\n\nL’enjeu n’est pas d’ajouter de la complexité aux équipes en salle, mais de leur fournir une interface intuitive qui relie prise de commande, caisse, tableau de bord et assistance intelligente.",
+        "en": "In designing RestaurantOS, each capability starts from real hospitality constraints: smoothing order flow, preventing unexpected stockouts, simplifying table reservations, and giving managers clear operational visibility.\n\nThe goal is never to add complexity for floor staff, but to provide an intuitive interface connecting ordering, point-of-sale, analytics, and intelligent assistance."
+      },
+      "published": true
+    },
+    {
+      "id": "art-systemes-information",
+      "slug": "genie-informatique-et-gestion-projets",
+      "category": {
+        "fr": "Systèmes d’information",
+        "en": "Information Systems"
+      },
+      "date": "2026-06-30",
+      "image": "/src/assets/images/blog_digital_systems_1794819706730.jpg",
+      "title": {
+        "fr": "Systèmes d’information et gestion de projets : le pont entre infrastructure et stratégie",
+        "en": "Information Systems and Project Management: Bridging Infrastructure and Strategy"
+      },
+      "summary": {
+        "fr": "Comment la compréhension des infrastructures techniques et des systèmes d’information renforce la qualité du pilotage de projets digitaux.",
+        "en": "How practical exposure to technical infrastructure and information systems strengthens digital project leadership."
+      },
+      "content": {
+        "fr": "Mon parcours entre gestion de projets chez Expertise France, immersion en start-up, stage en salle des serveurs au CHRACHERH et formation en Génie Informatique option Gestion des Systèmes d’Information m’a apporté une double lecture essentielle.\n\nComprendre comment fonctionnent les infrastructures et les flux de données permet de planifier des projets numériques plus réalistes, plus fiables et mieux alignés avec les objectifs des organisations.",
+        "en": "Moving between project management at Expertise France, a start-up internship, server room operations at CHRACHERH, and Computer Engineering studies in Information Systems Management gave me an essential dual perspective.\n\nUnderstanding how technical infrastructure and data flows operate enables more realistic planning, stronger reliability, and tighter alignment with organizational goals."
+      },
+      "published": true
+    }
+  ],
+  "messages": []
+}
